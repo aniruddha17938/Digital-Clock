@@ -1,2 +1,2 @@
 # Digital-Clock
-HTML, CSS, JS project 6
+Digital Clock made using HTML, CSS, and Js
