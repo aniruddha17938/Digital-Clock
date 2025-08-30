@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(to right, #c31432, #240b36);
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .time-box {
+    font-size: 100px;
+    font-family: Arial, sans-serif;
+    color: black;
+    background-color: white;
+    padding: 30px 60px;
+    border-radius: 10px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
